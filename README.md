@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aung Khant Zaw 👋
 
-<!--
-**aungkhantzaw211203-lab/aungkhantzaw211203-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Financial & Investment Analyst | Yangon, Myanmar**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Finance professional transitioning from medicine, bringing analytical 
+rigor to investment modeling and valuation. Currently pursuing ACCA 
+and CFI FMVA certifications.
+
+## 🛠️ Skills
+- **Financial Modeling:** DCF, Three-Statement Models, Scenario Analysis
+- **Accounting:** IFRS, Management & Financial Accounting
+- **Tools:** Advanced Excel, Power BI, Python, SQL
+- **Certifications:** ACCA (in progress), CFI FMVA (in progress), YSX Certificate
+
+## 📂 Projects (Coming Soon)
+| Project | Description | Tools |
+|---|---|---|
+| DCF Valuation Model | Full DCF with sensitivity analysis | Excel |
+| Three-Statement Model | Integrated financial model | Excel |
+| Equity Research Report | Buy-side research note | Excel, Word |
+| Stock Dashboard | Interactive sector analysis | Python |
+
+## 📫 Contact
+- Email: aungkhantzaw211203@gmail.com
+- LinkedIn: [linkedin.com/in/aung-khant-zaw-097aa3399](https://linkedin.com/in/aung-khant-zaw-097aa3399)
