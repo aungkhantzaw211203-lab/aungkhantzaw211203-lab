@@ -15,13 +15,14 @@ and CFI FMVA certifications.
 - **Tools:** Advanced Excel, Power BI, Python, SQL
 - **Certifications:** ACCA (in progress), CFI FMVA (in progress), YSX Certificate
 
-## 📂 Projects (Coming Soon)
+## 📂 Projects
 | Project | Description | Tools |
 |---|---|---|
 | DCF Valuation Model | Full DCF with sensitivity analysis | Excel |
 | Three-Statement Model | Integrated financial model | Excel |
 | Equity Research Report | Buy-side research note | Excel, Word |
 | Stock Dashboard | Interactive sector analysis | Python |
+| Market Research Report | YSX Market Analysis | Excel, Word |
 
 ## 📫 Contact
 - Email: aungkhantzaw211203@gmail.com
